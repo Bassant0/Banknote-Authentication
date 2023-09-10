@@ -14,8 +14,6 @@ This project delves into the captivating domain of banknote authentication. Usin
 - [Modeling and Results](#modeling-and-results)
 - [Key Learnings](#key-learnings)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Acknowledgments](#acknowledgments)
 
 ### Dataset Description
 
