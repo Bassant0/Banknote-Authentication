@@ -1,7 +1,7 @@
-# Banknote-Authentication
 
 
-# Banknote Authentication: From Image to Insight 📸💡
+
+# Banknote Authentication: From Image to Insight
 
 ### Overview
 
